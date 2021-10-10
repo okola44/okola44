@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**okola44/okola44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hi there ,meet Okola Imali👋
 - 🌱 I’m currently learning React,Scala...
 - 🤔 I’m looking for help with Java...
 - 💬 Ask me about python Django...
